@@ -5,8 +5,9 @@ z = input("Enter 3rd Palce :")
 print("{0} is Greater then {1} but Still {2} is Best".format(x,y,z))
 
 
+abc = 10
 
 
 print(abc)
 
-abc = 10
+print("Nadeem khan")
